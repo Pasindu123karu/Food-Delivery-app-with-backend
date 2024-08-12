@@ -1,0 +1,2 @@
+const String publishableKey = "pk_test_51OvSz3SE4sGNEKEcb4GTREjuLLAGVhJsehhKt8QnPgyDNl4Z5as4dRzLdrgCYtWbMw2aRCEHvP2e4oOpyeEjM5Z700fTlazXVi";
+String secretKey = "sk_test_51OvSz3SE4sGNEKEcM4q96Sz9pHwBwjzfF3jsabWy2laHhWAytmPTbpYG7hBnLvxLrChdrDqAWf41NlHvsoyoviqJ00zBRuzMqb";
